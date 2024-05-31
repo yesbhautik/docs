@@ -25,12 +25,6 @@
     "name": "Let's start",
     "url": "https://flavorgpt.yesbhautik.co.in"
   },
-  "tabs": [
-    {
-      "name": "Pricing",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -84,8 +78,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "#",
+    "github": "#",
+    "linkedin": "#"
   }
 }
