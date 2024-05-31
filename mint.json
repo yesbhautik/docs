@@ -17,17 +17,17 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact",
+      "url": "mailto:hi@yesbhautik.co.in"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Let's start",
+    "url": "https://flavorgpt.yesbhautik.co.in"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Pricing",
       "url": "api-reference"
     }
   ],
